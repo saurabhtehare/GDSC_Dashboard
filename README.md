@@ -59,14 +59,16 @@ The Power BI dashboard provides a comprehensive view of the GDSC dataset through
 
 ## Video Walkthrough of the Project
 
-[Presentation Link](#link)
+[Presentation Link](https://youtu.be/ZxJ36yWMhnY)
 
-## Team Info
+## Team Info  
 
-- **Member 1**: Role - Data Processing and Analysis
-- **Member 2**: Role - Power BI Visualization and Dashboard Design
-- **Member 3**: Role - Database Integration and SQL Management
-- **Member 4**: Role - Project Documentation and Presentation Preparation
+<img src="logo.jpeg.jpg" alt="Project Logo" width="150"/>  
+
+- **Mohit Agarwal**  
+- **Saurabh**  
+- **Pradip**  
+- **Malhar**  
 
 ---
 
